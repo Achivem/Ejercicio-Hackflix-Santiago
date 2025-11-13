@@ -6,7 +6,7 @@ function App() {
   return (
     <>
       <div>
-        <SleepNavbar></SleepNavbar>
+        <SleepNavbar bgColor="#b088d6"></SleepNavbar>
       </div>
     </>
   );
